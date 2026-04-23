@@ -21,9 +21,9 @@ const ADMIN_KEY = 'ADMIN_USERS';
 
 const authConfig = {
     "siteName": "SSBots", // Your Website name
-    "client_id": "440773216124-rjr6677ochodu11ct20gqv8gh0prjf3s.apps.googleusercontent.com", // Your Client id from Google Cloud Console
-    "client_secret": "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", // Your Client Secret from Google Cloud Console
-    "refresh_token": "1//09AJgdzGC3ieiCgYIARAAGAkSNwF-L9IrGWZESwzGYnsw0IxTbjFurQ_FehAkXp18diLOAnCmIzERkHDeHXBBwdSnGqAWP1mTepg", // Your Authorize token - Get from OAuth Playground
+    "client_id": "684956528067-g9f3aroq0iqb94c315r7h6dm8nls6qk5.apps.googleusercontent.com", // Your Client id from Google Cloud Console
+    "client_secret": "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", // Your Client Secret from Google Cloud Console
+    "refresh_token": "1//0cN5BQTNCdDm8CgYIARAAGAwSNwF-L9Ir-xJ9QepAnV7KnPJ13Rz2iRKm2iLIF6S8R8Lcj1YcHZK9loZaZ3Q6gAu-Gs9tcqlxSG0", // Your Authorize token - Get from OAuth Playground
     "service_account": false, // true if you're using Service Account instead of user account
     "service_account_json": randomserviceaccount, // don't touch this one
     "files_list_page_size": 100,
